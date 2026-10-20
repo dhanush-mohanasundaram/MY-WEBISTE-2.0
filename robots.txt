@@ -1,0 +1,8 @@
+﻿# Dhanush Mohanasundaram — Personal Portfolio
+# This is a legitimate student portfolio website.
+# Not affiliated with any commercial product or brand.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://dhanush-mohanasundaram.github.io/MY-WEBISTE-2.0/sitemap.xml
